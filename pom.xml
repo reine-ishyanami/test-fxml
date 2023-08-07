@@ -13,7 +13,7 @@
         <module>without-controller</module>
         <module>with-controller-args</module>
         <module>multi-controller-communicate</module>
-        <module>molti-controller-communicate2</module>
+        <module>multi-controller-communicate2</module>
         <module>multi-stage-communicate</module>
         <module>event-bus</module>
     </modules>

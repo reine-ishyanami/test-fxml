@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>molti-controller-communicate2</artifactId>
+    <artifactId>multi-controller-communicate2</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
