@@ -16,6 +16,7 @@
         <module>multi-controller-communicate2</module>
         <module>multi-stage-communicate</module>
         <module>event-bus</module>
+        <module>fx-root-usage</module>
     </modules>
 
     <properties>
